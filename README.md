@@ -1,6 +1,25 @@
 # Mobile-Clinic-Database-Structure
 A database idea to hold information of patients &amp; staff in a clinic that 
 
+Instructions to set up:
+
+Download the Mobile Clinic Database.sql file from this repository.
+
+Use a SQLite-compatible database browser such as DB Browser for SQLite to open the file.
+
+If using DB Browser for SQLite:
+
+Open the application.
+
+Go to File > Import > Database from SQL file.
+
+Select the Mobile Clinic Database.sql file.
+
+
+The database structure and data will be imported, and you can now interact with it.
+Use this database to manage clinic operations or integrate it into a broader application for further functionality.
+
+
 This project includes an SQLite database used for managing various entities within a clinic management system. The database contains multiple tables including:
 
 Admin: Stores information about administrators, including their full names and phone numbers.
