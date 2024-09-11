@@ -36,3 +36,6 @@ This project includes an SQLite database used for managing various entities with
         
 Each table includes sample data that simulates real-world entries within a clinic setting. This database can be used as the backend for applications that manage clinic resources and staff.
 
+**FUTUTRE DEVELOPMENT**
+
+A Graphical User Interface and frontend to support the apps full functionality for clinics.
