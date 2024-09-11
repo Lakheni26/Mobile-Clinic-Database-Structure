@@ -3,17 +3,17 @@ A database idea to hold information of patients &amp; staff in a clinic that
 
 Instructions to set up:
 
-Download the Mobile Clinic Database.sql file from this repository.
+1.) Download the Mobile Clinic Database.sql file from this repository.
 
-Use a SQLite-compatible database browser such as DB Browser for SQLite to open the file.
+2.) Use a SQLite-compatible database browser such as DB Browser for SQLite to open the file.
 
 If using DB Browser for SQLite:
 
-Open the application.
+    Open the application.
 
-Go to File > Import > Database from SQL file.
+    Go to File > Import > Database from SQL file.
 
-Select the Mobile Clinic Database.sql file.
+    Select the Mobile Clinic Database.sql file.
 
 
 The database structure and data will be imported, and you can now interact with it.
