@@ -22,7 +22,7 @@ If using DB Browser for SQLite:
 
 DESCRIPTION: 
         
-        This project includes an SQLite database used for managing various entities within a clinic management system. The database contains multiple tables including:
+This project includes an SQLite database used for managing various entities within a clinic management system. The database contains multiple tables including:
         
         Admin: Stores information about administrators, including their full names and phone numbers.
         
@@ -34,5 +34,5 @@ DESCRIPTION:
         
         Paramedic: Holds information about paramedic staff and their departments.
         
-        Each table includes sample data that simulates real-world entries within a clinic setting. This database can be used as the backend for applications that manage clinic resources and staff.
+Each table includes sample data that simulates real-world entries within a clinic setting. This database can be used as the backend for applications that manage clinic resources and staff.
 
